@@ -7,7 +7,7 @@ A comparative benchmark of supervised machine learning models for detecting at-r
 This project compares four supervised models (Logistic Regression, Decision Tree, Random Forest and HistGradientBoosting) against a dummy baseline. The goal is to identify students at risk of failing or withdrawing using only data from the first 28 days (4 weeks) of a course module.
 
 - **Authors:** Asima Abdikarimova, Ayazhan Ayetova
-- **Group:** SE-2404, Astana IT University
+- **Group:** SE-2404
 - **Dataset:** [OULAD](https://analyse.kmi.open.ac.uk/open-dataset), released under CC BY 4.0
 
 ## Repository Structure
@@ -15,7 +15,6 @@ This project compares four supervised models (Logistic Regression, Decision Tree
 ```text
 .
 ├── Assignment3_Abdikarimova_Ayetova.ipynb   # Main notebook (Google Colab / Jupyter)
-├── Assignment3_Abdikarimova_Ayetova.docx    # Final research report
 ├── requirements.txt                         # Python dependencies
 ├── .gitignore
 └── README.md
