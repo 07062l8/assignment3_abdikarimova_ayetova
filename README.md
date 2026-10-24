@@ -17,6 +17,7 @@ This project compares four supervised models (Logistic Regression, Decision Tree
 ├── Assignment3_Abdikarimova_Ayetova.ipynb   # Main notebook (Google Colab / Jupyter)
 ├── requirements.txt                         # Python dependencies
 ├── .gitignore
+├── outputs.zip
 └── README.md
 ```
 
